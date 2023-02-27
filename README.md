@@ -8,7 +8,7 @@
 - [Frog tinder. Знакомство с input type="radio"](https://github.com/AlisherKhamidov/html-radio-frog-tinder)
 - [Letter to santa. Знакомство с регистрационными формами](https://github.com/AlisherKhamidov/html-registration-letter-to-santa)
 - [Animals are drunk. Изучение css селекторов](https://github.com/AlisherKhamidov/html-css-animals-are-drunk)
-- [CSS box model. Узначем, что такое margin, border, padding, content](https://github.com/AlisherKhamidov/css-box-model)
+- [CSS box model. Узнаем, что такое margin, border, padding, content](https://github.com/AlisherKhamidov/css-box-model)
 - [Кнопки. Продолжаем работу с css, научимся использовать такие свойства как: font-size, font-family, border-radius и др.](https://github.com/AlisherKhamidov/html-css-btn-hover)
 
 ### Создание нового Issue
