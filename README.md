@@ -1,9 +1,15 @@
-## Пример репозитория со ссылками на задания
+# Frontend 
 
 ## HTML CSS DOM
-### Основной раздел
 
-**Задания**
+### Инструкция для преподавателей
+Ниже прикреплен список заданий (его можно пополнять или улучшать). Эти задания можно использовать в качестве домашней или классной работы на ваше усмотрение. Сами задания расположены на `https://github.com/orgs/ait-tr/repositories`. Одно задание === один репозиторий, название начинается с префикса `task_fe` 
+
+### Инструкция для студентов
+
+
+
+### Задания
 - [Учимся создавать списки и таблицы](https://github.com/ait-tr/task_fe-html_table_ul)
 - [Frog tinder. Знакомство с input type="radio"](https://github.com/ait-tr/task_fe-html-radio-frog-tinder)
 - [Letter to santa. Знакомство с регистрационными формами](https://github.com/ait-tr/task_fe-registration-letter-to-santa)
